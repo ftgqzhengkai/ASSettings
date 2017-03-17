@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Instant Run applied code changes and restarted the app. &#9;&#9;&#9;The app was restarted since it uses multiple processes" />
+      <item value="Gradle sync failed: Cause: org.gradle.api.internal.tasks.DefaultTaskInputs$TaskInputUnionFileCollection cannot be cast to org.gradle.api.internal.file.collections.DefaultConfigurableFileCollection &#9;&#9;&#9;Consult IDE log for more details (Help | Show Log)" />
       <item value="on Back Pressed" />
     </histories>
   </component>
