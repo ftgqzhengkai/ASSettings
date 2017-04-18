@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'MobileStation3.0'" />
-    <option name="defaultScopeName" value="Project 'MobileStation3.0'" />
+    <option name="customScope" value="File '[cityexpress] - ...\cityexpress\src\main\java\com\gistandard\tcstation\view\scan\ScanActivity.java'" />
+    <option name="defaultScopeName" value="File '[cityexpress] - ...\cityexpress\src\main\java\com\gistandard\tcstation\view\scan\ScanActivity.java'" />
     <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'MobileStation3.0'" />
+    <option name="SEARCH_SCOPE" value="File '[cityexpress] - ...\cityexpress\src\main\java\com\gistandard\tcstation\view\scan\ScanActivity.java'" />
   </component>
 </application>
