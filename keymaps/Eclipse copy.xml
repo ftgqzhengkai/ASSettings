@@ -1,9 +1,19 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
   <action id="ClassNameCompletion">
+    <keyboard-shortcut first-keystroke="ctrl alt space" />
     <keyboard-shortcut first-keystroke="alt z" />
+  </action>
+  <action id="Debugger.PopFrame">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="ctrl alt numpad8" />
   </action>
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="FixDocComment">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl r" />
