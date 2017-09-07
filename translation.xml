@@ -1,5 +1,5 @@
 <application>
   <component name="TranslationSettings">
-    <option name="disableAppKeyNotification" value="true" />
+    <option name="disableApiKeyNotification" value="true" />
   </component>
 </application>
