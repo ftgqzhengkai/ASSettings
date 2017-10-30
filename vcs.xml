@@ -30,6 +30,10 @@
           <option name="url" value="http://gitlab.cloud.gistandard.cn/devcore-one/test.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:hencoder/PracticeDraw1.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\workspace\" />
