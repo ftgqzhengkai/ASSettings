@@ -4,6 +4,7 @@
       <GlobalState>
         <option name="preferXmlEditor" value="true" />
         <option name="showDeviceFrames" value="false" />
+        <option name="showLint" value="true" />
       </GlobalState>
     </option>
   </component>
