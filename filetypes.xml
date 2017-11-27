@@ -4,9 +4,10 @@
     <extensionMap>
       <mapping pattern="currency" type="JSON" />
       <mapping ext="text" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="aar" type="PLAIN_TEXT" />
-      <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="realm" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
