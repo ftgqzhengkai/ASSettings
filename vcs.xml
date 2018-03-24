@@ -59,7 +59,11 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/googlesamples/android-architecture-components.git" />
+          <option name="url" value="https://github.com/objectbox/objectbox-examples.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/googlesamples/android-architecture.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
