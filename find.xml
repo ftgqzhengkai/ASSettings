@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'MobileStation3.0'" />
-    <option name="defaultScopeName" value="Project 'MobileStation3.0'" />
-    <option name="SEARCH_SCOPE" value="Project 'MobileStation3.0'" />
+    <option name="customScope" value="Module 'androidbase'" />
+    <option name="defaultScopeName" value="Module 'androidbase'" />
+    <option name="SEARCH_SCOPE" value="Module 'androidbase'" />
   </component>
 </application>
