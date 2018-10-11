@@ -1,9 +1,0 @@
-<application>
-  <component name="ParameterNameHintsSettings">
-    <blacklists>
-      <blacklist language="Java">
-        <added pattern="java.util.regex.Pattern.compile(regex,flags)" />
-      </blacklist>
-    </blacklists>
-  </component>
-</application>

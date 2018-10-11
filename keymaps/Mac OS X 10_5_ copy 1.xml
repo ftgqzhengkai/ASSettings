@@ -1,0 +1,5 @@
+<keymap version="1" name="Mac OS X 10.5+ copy 1" parent="Mac OS X 10.5+">
+  <action id="ClassNameCompletion">
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
+</keymap>
