@@ -2,10 +2,15 @@
   <action id="ClassNameCompletion">
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
+  <action id="CompareTwoFiles" />
   <action id="CopyElement" />
   <action id="Debug" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
   <action id="EditorDeleteLine">
-    <keyboard-shortcut first-keystroke="ctrl d" />
+    <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
@@ -14,6 +19,16 @@
     <keyboard-shortcut first-keystroke="alt f8" />
     <keyboard-shortcut first-keystroke="ctrl u" />
   </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift meta f" />
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
   <action id="Move" />
   <action id="NextDiff" />
   <action id="NextTab">
@@ -31,6 +46,7 @@
     <keyboard-shortcut first-keystroke="meta alt r" />
     <keyboard-shortcut first-keystroke="f8" />
   </action>
+  <action id="SendEOF" />
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
@@ -40,4 +56,14 @@
   <action id="StepOver">
     <keyboard-shortcut first-keystroke="f6" />
   </action>
+  <action id="TypeHierarchy">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="Vcs.EditSource">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="XDebugger.JumpToSource">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="openAssertEqualsDiff" />
 </keymap>
